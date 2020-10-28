@@ -4,7 +4,7 @@
 - Login, order, pizza places, pizza menu info are stored in MySQL database.
 - Created a connection to database using JDBC.
 
-![](https://github.com/Lukas-Daugela/Lukas_Portfolio/blob/main/Images/log.PNG)
-![](https://github.com/Lukas-Daugela/Lukas_Portfolio/blob/main/Images/Meniu.PNG)
-![](https://github.com/Lukas-Daugela/Lukas_Portfolio/blob/main/Images/description.PNG)
-![](https://github.com/Lukas-Daugela/Lukas_Portfolio/blob/main/Images/saskaita.PNG)
+![](/images/log.PNG)
+![](/images/Meniu.PNG)
+![](/images/description.PNG)
+![](/images/saskaita.PNG)
